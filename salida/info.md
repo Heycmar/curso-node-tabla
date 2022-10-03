@@ -1,2 +1,2 @@
 # Información
-Esta carpeta contiene el producto final de la aplicación del curso de Node
+Esta carpeta contiene el producto final de la aplicación
